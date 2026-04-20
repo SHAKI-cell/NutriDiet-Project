@@ -1,6 +1,6 @@
 # 🥗 Diet & Food Info App – Debugging Task Completion Report
 
-## Debugging Task (as assigned in README file on GitHub): 10 Marks
+## Debugging Task (as assigned in README file on GitHub): 
 
 > ✅ **This report confirms that all debugging tasks mentioned in the original GitHub repository's README have been successfully identified, fixed, and tested.**
 
