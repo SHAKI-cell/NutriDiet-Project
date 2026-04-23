@@ -7,7 +7,7 @@
 
 ## 📌 Project Overviews
 
-NutriGuide is a full‑stack web application that helps users:
+NutriGuide is a full‑stack web applications that helps users:
 
 - 🔍 Search **food nutrition data** (USDA FoodData Central API)
 - 🤖 Generate personalized **diet plans** (Google Gemini AI)
