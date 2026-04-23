@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Project Overview
+## 📌 Project Overviews
 
 NutriGuide is a full‑stack web application that helps users:
 
