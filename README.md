@@ -9,7 +9,7 @@
 
 NutriGuide is a full‑stack web applications that helps users:
 
-- 🔍 Search **food nutrition data** (USDA FoodData Central API)
+- 🔍 Search **food nutrition data** (USDA FoodDatas Central API)
 - 🤖 Generate personalized **diet plans** (Google Gemini AI)
 - 📆 **Track meals** and calories
 - 🔐 **Login / Register** using Firebase Authentication
